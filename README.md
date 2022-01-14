@@ -1,2 +1,3 @@
 # Progress-Stepper-Component
-Progress-Stepper-Component
+
+Practicing css animation stepper!
